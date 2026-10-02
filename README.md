@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nehal 👋
 
-<!--
-**nehalpedanekar-tech/nehalpedanekar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year AI & Data Science student with a strong interest in AI/ML, software development, and building meaningful projects using Python and web technologies. I enjoy learning by creating, experimenting, and turning ideas into real-world solutions.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- C
+- JavaScript
+- HTML
+- CSS
+- pandas
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Peer-to-Peer Skill Exchange — a platform that enables people to exchange skills with each other.
+- BookNest Online Library — an online library application for browsing and managing books.
+- BMW Website — a responsive website built using HTML and CSS.
+
+## Contact
+- GitHub: @nehalpedanekar-tech
+- LinkedIn: Nehal Pedanekar
+- Email: nehalpedanekar@gmail.com
