@@ -6,7 +6,6 @@ I’m a third-year AI & Data Science student with a strong interest in AI/ML, so
 - Python
 - Java
 - C
-- JavaScript
 - HTML
 - CSS
 - pandas
