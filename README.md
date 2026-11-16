@@ -9,7 +9,7 @@ I’m a third-year AI & Data Science student with a strong interest in AI/ML, so
 - HTML
 - CSS
 - pandas
-
+- Power BI
 
 ## Projects
 - Peer-to-Peer Skill Exchange — a platform that enables people to exchange skills with each other.
